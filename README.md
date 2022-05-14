@@ -1,7 +1,8 @@
 # Welcome to my first webpage!
 
 This is my first webpage and first project on github
-I found the idea for this template on the internet and just wrote the html and css code
+I found the idea for this template on the internet and just wrote the html and css code.
+but it's not responsive yet :(
 
 ## webpage address
 
