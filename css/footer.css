@@ -1,0 +1,15 @@
+.footer{
+    background-color: #90A4AE;
+    grid-column: 1/-1;
+    height: 100px;
+}
+
+
+.matn{
+    text-align: center;
+    text-justify: end;
+    position: relative;
+    bottom: -80px;
+}
+
+
